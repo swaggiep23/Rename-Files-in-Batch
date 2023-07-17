@@ -1,4 +1,4 @@
-# Rename Files in Batch
+# Modify_Filenames_in_Batch
 
 Modify multiple files in a single directory at once, especially when they are from the same source and are named in the same way. 
 Useful for renaming multiple files in a folder or directory, making them easier to read. 
